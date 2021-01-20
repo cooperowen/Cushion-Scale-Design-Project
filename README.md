@@ -1,0 +1,9 @@
+# Cushion-Scale-Design-Project
+This project was completed by a team of five over the course of four months. All work included is the product of collaborative efforts from Emma Louie, Kelly Lu, Sammi Szeto, Nicholas Virizi and myself.
+We were tasked with developing a device to be used by parapelegic wheelchair-bound individuals that would allow them to weigh themselves independently, from the comfort of their home.
+It is especially important for people who frequently use wheelchairs to keep track of their weight since their inhibitied ability to exercise puts them at a higher risk for obeisty.
+My team and I followed an interative design framework that began with needs assesment and was followed by sythesis, design, engineering analysis, prototyping and recommendations.
+This project was introduced through my Introduction to Biomedical Design course (BME161). Since it was taught remotely, the implementation, testing and validation aspects of the assignment were removed. This explains the jump from the prototyping to recommendations stage of the design process.
+Detailed reports of my team's work are available. The first report includes up to design selection whereas the second highlights our work from engineering analysis onwards.
+Within our first report you will find our situation of concern, situation impact statement, requirements, constraints, considered personas, quality function deployment chart, functions, sketches for three possible designs and our best of class chart used to select our most promising one.
+Within our second report you will find a summary of the problem space, solution approach, a detailed sketch of our selected design, a user interaction stroyboard, engineering analyses of three different aspects of the design using our knowledge of statics and pressure maps, testing plan, iteration plan and a conclusion.
